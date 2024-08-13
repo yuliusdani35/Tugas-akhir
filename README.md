@@ -1,6 +1,7 @@
 # Tugas-akhir
 Yulius Dani Eko Saputro (203400012)
 Teknik Ilmu Informatika
+Universitas Katolik Darma Cendika Surabaya
 
 Berikut adalah kalimat tutorial untuk sistem pengenalan wajah untuk palang parkir otomatis:
 1.	Buka “XAMPP” dan nyalakan “Apache” serta “MySQL”.
