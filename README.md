@@ -1,4 +1,4 @@
-# Tugas-akhir
+# Tugas Akhir
 Yulius Dani Eko Saputro (203400012)
 Teknik Ilmu Informatika
 Universitas Katolik Darma Cendika Surabaya
